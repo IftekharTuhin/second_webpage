@@ -1,0 +1,15 @@
+
+You’ll be building a retro-style Book Club Meetup website using basic HTML.
+
+A basic webpage that tells people:
+
+It's time to gather and discuss our latest read 
+When it's happening
+What to bring (a copy of the book... and maybe snacks!) 
+Where the meetup is 
+
+HTML Elements You’ll Use:
+<h1>, <h2>, <h3> for headings
+<img> for images (like the book cover or cozy reading setup)
+<ul> and <li> for lists (discussion points or items to bring)
+<a> for links (maybe to the book’s page or RSVP form)
